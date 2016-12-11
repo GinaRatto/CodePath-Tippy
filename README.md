@@ -26,14 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/tL0NFD5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gW8lgws.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-It was difficult to figure out how to add the gradient in the background
+It was difficult to figure out how to add the gradient in the background.
+I did manage to create a Settings page, but did not add anything to it.
 
 ## License
 
